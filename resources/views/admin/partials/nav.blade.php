@@ -84,13 +84,14 @@
             </li>
         </ul>
     </li>
-    -->
+    
     <li class="{{set_active('admin/employee')}}">
         <a href="{{url('admin/employee')}}">
             <i class="glyphicon glyphicon-user"></i>
             <span class="hidden-sm text"> Employee</span>
         </a>
     </li>
+    -->
     @if(Auth::user()->admin==1)
     <li class="{{set_active('admin/users')}}">
         <a href="{{url('admin/users')}}">
