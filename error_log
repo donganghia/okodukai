@@ -1,0 +1,4 @@
+[27-Aug-2015 21:58:38 America/New_York] PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /home/dongdnje/public_html/server.php on line 12
+[27-Aug-2015 22:03:39 America/New_York] PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /home/dongdnje/public_html/server.php on line 12
+[27-Aug-2015 22:09:33 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dongdnje/public_html/server.php on line 28
+[27-Aug-2015 22:13:09 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dongdnje/public_html/server.php on line 25
